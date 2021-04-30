@@ -2,6 +2,13 @@
 
 This is a copy of the original [pacman game](https://en.wikipedia.org/wiki/Pac-Man)
 
+
+<p align="middle">
+  <img src="images/readme/ingame.jpg" width="100">
+  <img src="images/readme/main_menu.jpg" width="100">
+  <img src="images/readme/gameplay.gif" width="100">
+</p>
+
 ## Requirements
 
 You will need to instal [python3+](https://www.python.org/) and [pygame](https://www.pygame.org/news) module to run our project
