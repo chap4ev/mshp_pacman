@@ -4,9 +4,9 @@ This is a copy of the original [pacman game](https://en.wikipedia.org/wiki/Pac-M
 
 
 <p align="middle">
-  <img src="images/readme/ingame.jpg" width="100">
-  <img src="images/readme/main_menu.jpg" width="100">
-  <img src="images/readme/gameplay.gif" width="100">
+  <img src="images/readme/ingame.jpg" width="33%">
+  <img src="images/readme/main_menu.jpg" width="33%">
+  <img src="images/readme/gameplay.gif" width="33%">
 </p>
 
 ## Requirements
